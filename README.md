@@ -1,6 +1,6 @@
 ***<h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> I'm Aditya Rao</h1>***
-***<h3 align="center">A passionate fullstack developer</h3>***
-<img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+***<h3 align="center"><b>A Passionate Fullstack Learner </h3></b>***
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif"/>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarao3&label=Profile%20views&color=0e75b6&style" alt="adityarao3" /> </p>
