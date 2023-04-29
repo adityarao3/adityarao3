@@ -11,7 +11,7 @@
 
 - 👨‍💻 ***All of my projects are available at***: [adityarao3](adityarao3)
 
-- 💬 ***Ask me about***: *python*
+- 💬 ***Ask me about***: *C++*
 
 - 📫 ***How to reach me***: *adityarao9541@gmail.com*
 
@@ -46,12 +46,12 @@
 
 <h3><em>Connect with me</em> :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" /></h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aman kumar">
+  <a href="https://www.linkedin.com/in/aditya-rao-372141227">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/3142_akay"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://twitter.com/3142akay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  
+ <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
- <a href="https://www.spotify.com/in-en/account/overview/"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ 
 
 
 
