@@ -15,8 +15,6 @@
 
 - 📫 ***How to reach me***: *adityarao9541@gmail.com*
 
-- ⚡ ***Fun fact***: *I am a fan of lord puneet*
-
 
 
 
