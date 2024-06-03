@@ -7,7 +7,7 @@
 
 <p align="left"><em> <a href="https://twitter.com/realraoaditya" target="blank"><img src="https://img.shields.io/twitter/follow/realraoaditya?logo=twitter&style=for-the-badge" alt="@realraoaditya" /></a> </p>
 
- - 🌱 ***I’m currently learning*** :  *java,webdevlopment*
+ - 🌱 ***I’m currently learning*** :  *Web Devlopment*
 
 - 👨‍💻 ***All of my projects are available at***: [adityarao3](adityarao3)
 
