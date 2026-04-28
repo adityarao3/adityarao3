@@ -10,7 +10,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aditya-Rao)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityarao9541@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+Full-Stack+Web+Apps+%F0%9F%8C%90;AI-Powered+Solutions+%F0%9F%A4%96;500%2B+DSA+Problems+Solved+%F0%9F%92%AA;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+Full-Stack+Web+Apps+%F0%9F%8C%90;AI-Powered+Solutions+%F0%9F%A4%96;500%2B+DSA+Problems+Solved+%F0%9F%92%AA;SIH+2024+Finalist+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
@@ -104,20 +104,6 @@ const aditya = {
 <img src="https://github-readme-streak-stats.herokuapp.com?user=adityarao3&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarao3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="170" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityarao3/adityarao3/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityarao3/adityarao3/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adityarao3/adityarao3/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
