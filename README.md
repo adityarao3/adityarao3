@@ -20,7 +20,7 @@
 
 ```javascript
 const aditya = {
-    education: "B.Tech CSE @ Chandigarh Engineering College (CGPA: 8.20)",
+    education: B.Tech CSE @ Chandigarh Engineering College,
     currentFocus: "Full-Stack Development & AI Integration",
     askMeAbout: ["C++", "React", "Next.js", "Node.js", "System Design"],
     funFact: "I turn coffee ☕ into production-ready code 🚀"
