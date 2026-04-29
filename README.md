@@ -78,9 +78,9 @@ const aditya = {
 |---------|-------------|------------|-------|
 | **Buildr.ai** | AI-powered website generator — create full sites from natural-language prompts | Next.js, TypeScript, Prisma, OpenAI, Clerk | [🔗 Live](https://buildr-delta.vercel.app/) · [📂 Code](https://github.com/adityarao3/FAQForge.git) |
 | **Meet.ai** | AI Meeting Assistant with agents that join video calls for live transcription & summarization | Next.js, tRPC, PostgreSQL, OpenAI, Stream SDK | [📂 Code](https://github.com/berserk3142-max/Meet.ai) |
-| **Drone Survey System** | Full-stack drone fleet management with real-time telemetry & Google Maps integration | Next.js, Prisma, PostgreSQL, Google Maps API | [🔗 Live](https://drone-survey-management-system.vercel.app/) · [📂 Code](https://github.com/adityarao3/Drone-Survey-Management-System) |
+| **Drone Survey System** | Full-stack drone fleet management with real-time telemetry & Google Maps integration | Next.js, Prisma, PostgreSQL, Google Maps API | [🔗 Live](https://drone-management-system-ten.vercel.app/) · [📂 Code](https://github.com/adityarao3/DroneManagement-System) |
 
-</div>
+</div>https://github.com/adityarao3/DroneManagement-System
 
 ---
 
